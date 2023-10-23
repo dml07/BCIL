@@ -729,6 +729,7 @@ a h2 {
 @media (max-width: 800px) {
     .col h2 {
        font-size: 15px;
+       margin-top: 1px 
     }
     .col p {
        font-size: 10px;
