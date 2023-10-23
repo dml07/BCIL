@@ -750,7 +750,7 @@ a h2 {
     }
     .col p {
         font-size: 5px;
-         line-height:1;
+         line-height: 0.25;
     }
     .col img {
         width: 20px;
