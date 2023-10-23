@@ -757,8 +757,8 @@ a h2 {
     .col {
         width: 100%;
         text-align: left;
-        padding: 0.5px; /* Adjust padding to reduce space */
-        margin: 0.5px 0; /* Adjust margin to reduce space */
+        line-height:1;
+
     }
     .col:hover {
         flex-grow: 2.5;
