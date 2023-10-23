@@ -744,6 +744,24 @@ a h2 {
       margin-top: 1px;
     }
 }
+@media (max-width: 500px) {
+    .col h2 {
+       font-size: 8px;
+    }
+    .col p {
+       font-size: 4px;
+    }
+    .col img {
+       width: 75px;
+    }
+    .col:hover {
+    flex-grow: 2;
+    width: 50%;
+    }
+    .col:hover h2 {
+      margin-top: 1px;
+    }
+}
 
 .output-section {
     margin-top: 1rem;
