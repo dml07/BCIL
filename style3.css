@@ -750,17 +750,17 @@ a h2 {
     }
     .col p {
         font-size: 5px;
-         line-height: 0.25;
+         line-height: -0.25;
     }
     .col img {
-        width: 10px;
+        width: 5px;
     }
     .col {
         width: 100%;
-        text-align: left;
+        text-align: center;
     }
     .col:hover {
-        flex-grow: 8;
+        flex-grow: 10;
     }
     .col:hover h2 {
         margin-top: 1px;
