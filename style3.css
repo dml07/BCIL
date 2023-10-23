@@ -752,13 +752,13 @@ a h2 {
         font-size: 5px;
     }
     .col img {
-        width: 75px;
+        width: 50px;
     }
     .col {
         width: 100%;
         text-align: left;
-        padding: 1px; /* Adjust padding to reduce space */
-        margin: 1px 0; /* Adjust margin to reduce space */
+        padding: 0.5px; /* Adjust padding to reduce space */
+        margin: 0.5px 0; /* Adjust margin to reduce space */
     }
     .col:hover {
         flex-grow: 2.5;
