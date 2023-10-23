@@ -749,16 +749,16 @@ a h2 {
         font-size: 10px;
     }
     .col p {
-        font-size: 8px;
+        font-size: 5px;
     }
     .col img {
-        width: 125px;
+        width: 75px;
     }
     .col {
         width: 100%;
-        text-align: center;
-        padding: 10px; /* Adjust padding to reduce space */
-        margin: 10px 0; /* Adjust margin to reduce space */
+        text-align: left;
+        padding: 2px; /* Adjust padding to reduce space */
+        margin: 2px 0; /* Adjust margin to reduce space */
     }
     .col:hover {
         flex-grow: 6;
